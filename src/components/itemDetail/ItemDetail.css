@@ -1,0 +1,205 @@
+.border {
+  height: 2px;
+  width: 100%;
+  color: #333;
+  background-color: #333;
+  margin-bottom: 48px;
+}
+
+.list {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.expectation-text {
+  font-size: 1.2rem;
+}
+
+.item-cancel-d {
+  display: flex;
+  justify-content: flex-start;
+  font-size: 20px;
+  color: #0e7490;
+}
+.avaliable-d {
+  display: flex;
+  justify-content: flex-start;
+  font-size: 20px;
+  color: #94a3b8;
+}
+
+.item-place {
+  display: flex;
+  justify-content: flex-start;
+  font-size: 20px;
+  color: #172554;
+}
+
+.item-duration {
+  display: flex;
+  justify-content: flex-start;
+  font-size: 20px;
+  color: #172554;
+}
+
+.do-this {
+  display: flex;
+  justify-content: flex-start;
+  color: #172554;
+  font-size: 26px;
+  padding-top: 48px;
+}
+.item-do {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.item-detail-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 1200px; /* Ensures the content is centered and not too wide on large screens */
+  margin: auto;
+  padding: 20px;
+  background-color: #f9f9f9; /* Neutral light background */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Soft shadow for a subtle 3D effect */
+}
+
+.tour-title {
+  font-size: 24px; /* Large enough for clear visibility */
+  font-weight: bold;
+  margin-bottom: 20px;
+  text-align: center;
+  color: #333; /* Dark color for better contrast */
+}
+
+.item-detail {
+  display: flex;
+  width: 100%;
+  justify-content: space-between; /* Distributes space between elements */
+}
+
+.item-main {
+  display: grid;
+  grid-template-columns: auto 1fr; /* Responsive grid layout */
+  align-items: center;
+  gap: 20px;
+}
+
+.item-main-image {
+  width: 100%; /* Responsive width */
+  max-width: 600px; /* Limits the image width */
+  height: auto; /* Maintains aspect ratio */
+  object-fit: cover; /* Ensures the image covers the area without stretching */
+  border-radius: 5px; /* Soft rounded corners for aesthetics */
+}
+
+.item-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 10px;
+  color: #666; /* Slightly lighter color for text */
+}
+
+.booking-details {
+  display: flex;
+  align-items: center; /* Aligns items vertically */
+  gap: 10px;
+}
+
+.item-short-description {
+  font-size: 20px;
+  padding: 20px;
+}
+
+.item-description {
+  padding: 10px;
+  text-align: left;
+  font-size: 20px; /* Increases font size for readability */
+  line-height: 1.6; /* Adequate line height for better readability */
+  color: #333; /* Dark color for text */
+}
+
+.final-price {
+  font-size: 24px;
+  font-weight: bold;
+  color: #0056b3; /* Blue color emphasizes the price */
+}
+
+.item-detail-select {
+  margin: 10px 0;
+  padding: 8px 10px;
+  border: 1px solid #ccc; /* Subtle border */
+  border-radius: 5px;
+  width: 150px; /* Adequate width for selections */
+}
+
+.item-btn:disabled {
+  background-color: #ccc;
+  cursor: not-allowed; /* Indicates the button is inactive */
+}
+
+.item-btn:hover {
+  background-color: #0056b3; /* Dark blue on hover for interactivity */
+}
+
+.item-btn {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 5px;
+  display: inline-block;
+  transition: background-color 0.3s ease;
+}
+
+.back-button {
+  background-color: #f0f0f0;
+  color: #333;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+  display: inline-block;
+  margin-right: auto;
+  margin-bottom: 20px;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.back-button:hover {
+  background-color: #ccc;
+  color: #000;
+}
+
+/* Responsive Button Styles */
+@media (max-width: 768px) {
+  .item-btn, .back-button {
+    width: 100%;
+    text-align: center;
+    padding: 12px;
+    font-size: 18px;
+  }
+}
+
+@media (max-width: 480px) {
+  .item-btn, .back-button {
+    width: 100%;
+    text-align: center;
+    padding: 14px;
+    font-size: 20px;
+  }
+  .input-group {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .input-label {
+    margin-bottom: 5px;
+  }
+
+  .item-detail-input {
+    width: 100%;
+  }
+}

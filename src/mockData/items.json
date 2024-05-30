@@ -1,0 +1,463 @@
+[
+  {
+    "id": 1,
+    "name": "Adrasan Boat Tour",
+    "color": "#6cb58f",
+    "price": 2800,
+    "image": [
+      "https://images.unsplash.com/photo-1600602267778-a6a009db1e3a?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1561789706-b21375e5392e?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1593994602854-c987da3326fb?q=80&w=1064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "short-description": "Marvel at the breathtakingly beautiful scenery, swim in clear water near Adrasan, and enjoy a delicious lunch on the boat.",
+    "cancel": "Free cancellation",
+    "place": "Adrasan",
+    "duration": "Duration 9 hours",
+    "do": [
+      "Full day boat cruise to Sulu Island",
+      "Relax on an unspoilt beach",
+      "Swim in azure waters",
+      "Freshly prepared lunch onboard"
+    ],
+    "Expectation": "Ringed by white sands and turquoise seas, the tiny island of Sulu is Antalya's answer to the Maldives. On this full-day boat tour, you'll hop across from Adrasan harbour to visit both sides of the uninhabited islet, with swim stops, sunbathing and lunch thrown in, too. It's an early start as we journey south to Adrasan Bay. Here, we'll jump onboard and set sail for a leisurely day at sea. We'll head across to Sulu Island – known locally as Suluada – just in time for a morning swim. Bask in the sunshine on one of its unspoilt beaches, before climbing back on deck for a freshly prepared lunch. The afternoon sees you glide to the opposite side of the island, past secluded bays and hidden coves, where your captain will drop anchor for another chance to jump into the cool, azure waters. As we make our way back, there'll be plenty more time to unwind and soak up the sun before returning to Antalya.",
+    "description": ["Pickup optional", "Guide", "Lunch", "Equipment"]
+  },
+  {
+    "id": 2,
+    "name": "Kemer Boat Tour",
+    "color": "#af294b",
+    "price": 2500,
+    "image": [
+      "https://images.unsplash.com/photo-1604064412467-af16406b5ba5?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "/assets/gemii.jpg",
+      "https://images.unsplash.com/photo-1602075030732-56d5fd008b70?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "short-description": "Get out into nature on a boat trip from Antalya. Explore Suluada Island, cruise through Akseki Bay, and visit the mythical Love Cave for a refreshingly cool swim.",
+    "cancel": "Free cancellation",
+    "place": "Kemer",
+    "duration": "Duration 7-13 hours",
+    "do": [" Relaxing coastal cruise", "Swim stops", "Explore Kemer Bay"],
+    "Expectation": "Sun, sea and swimming are all in store on this lazy day cruise. Relax in the sunshine and watch the passing scenery as you glide along Kemer Bay and the Turquoise Coast.From here, you'll sail along the coastline, drifting by long sandy beaches and hotels to the sound of soft music played on board. And along the way, you'll drop anchor for swimming stops. Bring snorkelling gear and take advantage of the glistening waters. Take a dip, check out the marine life or stay sunbathing on deck – the choice is yours. There are complimentary local drinks on the boat and midway through the trip, your crew will serve lunch on-board. Tuck in as your boat gently bobs on the waves. Later, after one or two more swimming stops you'll get even more chance to kick back and relax as you sail back to port",
+    "description": ["Pickup optional", "Guide", "Lunch", "Equipment"]
+  },
+  {
+    "id": 3,
+    "name": "Aspendos Tour",
+    "color": "#c8a971",
+    "price": 900,
+    "image": [
+      "https://images.unsplash.com/photo-1591814416053-53edf5ac5cf5?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1681769520407-5b0985a2d58e?q=80&w=1064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "/assets/Aspendo.jpg"
+    ],
+    "short-description": "Journey into the past as you discover the ancient citiy of Aspendos on this guided tour from Antalya. Explore the ruins of Roman architecture.",
+    "cancel": "Free cancellation",
+    "place": "Aspendos",
+    "duration": "Duration 9 hours",
+    "do": [
+      "Explore the ruins of ancient Perge",
+      "Stroll along the colonnade-fringed main avenue",
+      "Discover the well-preserved theatre of Aspendos"
+    ],
+    "Expectation": "You'll travel back in time to the days of togas and chariots with this half-day excursion to the ancient sites of Perge and Aspendos. Among the attractions you'll discover is perhaps the best-preserved Roman theatre of all. First on the history hit list is the classical city of Perge. This once-bustling Roman port was founded around 1300 BC and the first stop for St Paul on his missionary journeys around the Mediterranean. Take a guided tour, stepping through the triumphal Roman gate to admire the ruined temples, marketplace and fountains. On the column-lined main street, you can even see the grooves in the flagstones created by chariot wheels. There's also a 12,000-seater stadium and the remnants of a Bronze Age acropolis. Next, we go to Aspendos to see one of the best-preserved theatres from antiquity. Built 2,000 years ago into a steep hillside and big enough for 15,000 spectators, its perfect acoustics mean that it's still used for operas and concerts today.",
+    "description": ["Pickup optional", "Live Tour Guide", "Lunch"]
+  },
+  {
+    "id": 4,
+    "name": "Myra Tour",
+    "color": "#5fcd16",
+    "price": 1200,
+    "image": [
+      "https://images.unsplash.com/photo-1601234992814-55450e8b40b5?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1701265749062-f1dcd09bef5d?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "/assets/myra.jpg"
+    ],
+    "short-description": "Visit the ancient city of Myra and its theater, the church of Saint Nicholas (Christmas)",
+    "cancel": "Free cancellation",
+    "place": "Myra",
+    "duration": "Duration 7 hours",
+    "do": [
+      "Taste local specialities at the Ottoman village of Beymelek",
+      "Relax on a boat trip to Kekova island and see the sunken city",
+      "Savour a freshly prepared lunch in a typical local restaurant",
+      "Visit the church of St Nicholas and tour the ancient city of Myra",
+      "Expert local guide with unrivalled knowledge of Myra and Kekova"
+    ],
+    "Expectation": "Authentic cuisine, a lost city and Santa – this trip offers an eclectic mix of attractions. You'll savour local dishes in Beymelek, glide along the coast to Kekova island and its sunken town, then visit the church of St Nicholas and the ancient city of Myra. Ahmet, one of our expert local guides, says, ‘The highlight of the day for me has to be the ruined Lycian city of Myra. The rock-cut friezes carved with theatrical masks and the stacked tombs hewn into the cliffs are a unique sight. It still takes my breath away that parts of this site are thought to be around 2,500 years old.'Proceedings get under way with a brunch stop to sample local specialities grown organically in the Ottoman-era village of Beymelek. Next, sail to Kekova island, a protected area famed for its underwater ruins. These are the relics of the ancient town of Simena, partially submerged by an earthquake in the 2nd century. There's time for a swim in the warmer months – the water is clear and inviting – it would be difficult to resist a dip in the sea. But if the weather doesn't permit a boat trip, there's a visit to the fascinating Demre museum instead.After a tasty lunch of typical dishes freshly prepared in a local restaurant, it's time to visit the Church of St Nicholas, who's better known today as Santa Claus. Finally, you'll have time to tour the site of the ancient city of Myra to explore the well-preserved amphitheatre and see the intricately carved rock tombs, high in the cliff face.",
+    "description": ["Pickup included", "Live Tour Guide", "Lunch"]
+  },
+  {
+    "id": 5,
+    "name": "Köprülü Canyon Rafting",
+    "color": "#e969c0",
+    "price": 600,
+    "image": [
+      "https://images.unsplash.com/photo-1629248457649-b082812aea6c?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1574116504481-e06341e984e1?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "/assets/raft.jpg"
+    ],
+    "short-description": "Unleash your inner adventurer and conquer 10 exhilarating rapids on a 14-kilometer rafting journey in the stunning Köprülü Canyon from Side.",
+    "cancel": "Free cancellation",
+    "place": "Manavgat",
+    "duration": "Duration 6-7 hours",
+    "do": [
+      "Exhilarating whitewater rafting ride",
+      "Explore the Köprülü canyon",
+      "See scenery most tourists don't get to see"
+    ],
+    "Expectation": "Away from the coast, this part of Turkey is something of an adventure playground – created by Mother Nature herself. We're talking craggy peaks, forests and river canyons. And it's the latter that this trip focuses on, a whitewater rafting trip in the Köprülü canyon.After driving to the riverside village of Beskonak, you'll be given a safety briefing before you don a helmet and life vest. Once you've taken your seat along with your guide in an eight-person raft – get ready to roll. Feel the cool breezes as your raft skims and spins over the waters with everyone laughing and shrieking along the way.Keep your eyes on the scenery, too. You'll raft past steep cliffs and pine forests that most tourists never get to see. It's an exhilarating ride but the rapids are gentle rather than turbulent, so they're perfect for beginners. There's also a complimentary lunch included in the trip.",
+    "description": ["Live tour guide ", "Pickup optional", "Equipment"]
+  },
+  {
+    "id": 6,
+    "name": "Side Jeep Tour",
+    "color": "#fb375e",
+    "price": 850,
+    "image": [
+      "https://plus.unsplash.com/premium_photo-1698072483500-833f0c267bed?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://plus.unsplash.com/premium_photo-1698072483514-e23353599902?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "/assets/Jeep.jpg"
+    ],
+    "short-description": "With our Jeep Safari Tour you will get to know Side’s countryside, while admiring the spectacular scenery that Mountains form. Visit historical points of interest, swim in Green lake and much more.",
+    "cancel": "Free cancellation",
+    "place": "Side",
+    "duration": "Duration 8 hours",
+    "do": [
+      "Marvel at the natural beauty of the Taurus Mountains",
+      "Explore Green Lake and Green Canyon by a Jeep",
+      "Make an off-road adventure with professiona drivers on a Jeep",
+      "Enjoy a delicious lunch at Green Lake Restaurant"
+    ],
+    "Expectation": "Your adventure begins with a pickup from your hotel in the Side area apx 09:00am. You'll meet your guide at a designated spot, where they'll explain how to get into the jeeps and share the plan for the day. Then, you'll set off with your driver.First, you'll head into the Taurus mountains and go off-road. You'll make stops to admire beautiful views of a lake, where you can take photos together. Afterward, you'll continue your off-road journey until you reach the Roman Aqueducts. There, you can take a short break to rest and snap some pictures.Next, you'll drive to the Green Canyon and, upon arrival, enjoy the breathtaking sights of the canyon and Oymapinar Dam.From there, you'll head to Green Lake, taking an off-road route and stopping to take photos at panoramic areas. Afterward, you'll drive to a nearby restaurant for lunch. You'll have approximately two hours to relax, order your meal, enjoy the refreshing waters of the lake, and take a swim while your food is prepared. You can savor your delicious meal and have fun jumping into the green lake.Your final stop will be at Manavgat Waterfall, where you'll have a 30-minute break. You can breathe in the fresh air and capture beautiful photos. After the waterfall visit, you'll return to the jeeps to be dropped off at your hotels apx 17:00",
+    "description": ["Pickup optional", "Guide", "Equipment"]
+  },
+  {
+    "id": 7,
+    "name": "Xanthos and Patara",
+    "color": "#2da567",
+    "price": 1200,
+    "image": [
+      "https://images.unsplash.com/photo-1701605589533-359b1f794fab?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "/assets/Xanthos.jpg",
+      "https://images.unsplash.com/photo-1673643108094-7bf50d7c7d1c?q=80&w=994&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "short-description": "Start this day tour from Kalkan. Explore the ancient Xanthos City and Patara Beach, the longest beach in Turkey.",
+    "cancel": "Free cancellation",
+    "place": "Kaş",
+    "duration": "Duration 7 hours",
+    "do": [
+      "Expore the ancient land of Lycia",
+      "Discover the city of Xanthos and learn it’s fascinating history",
+      "Walk through the magnificent Saklikent Canyon",
+      "Relax at Patara Beach and watch the glorious sunset",
+      "Enjoy an al-fresco lunch by a stunning river"
+    ],
+    "Expectation": "Discover the ancient land of Lycia on this stunning day trip of the key sights. You will be picked up from your hotel in either Kalkan or Patara at at 9:00 AM. The bus will take you to the stunning city of Xanthos where your professional guide will tell the fascinating history of this UNESCO World Heritage site. Xanthos has many well-preserved ruins and tombs, set in a scenic location.Stop at a local workshop to learn about the history and craftsmanship of the famous Turkish carpets. Continue to see the magnificent Saklikent, the second longest gorge in Europe. Then enjoy an al-fresco lunch served next to the river. There is also the option to take a short trek through the cool water between the walls of the gorge, or to have a fun session of rafting. This can be organized at the site.The last stop will be at Patara Beach, the longest sandy beach in Europe. There you can swim in the crystal clear waters, relax on the sand, or explore the ancient ruins. The tour finishes at approximately 5:30 PM, with drop-off back at your hotel.",
+    "description": ["Pickup included", "Live Tour Guide", "Lunch"]
+  },
+  {
+    "id": 8,
+    "name": "Kaputas Beach",
+    "color": "#060571",
+    "price": 2200,
+    "image": [
+      "https://images.unsplash.com/photo-1656151074846-8f94b48cb60f?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1655753492812-722054ab0ded?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "/assets/Kaput.jpg"
+    ],
+    "short-description": "Hello",
+    "cancel": "Free cancellation",
+    "place": "Kalkan",
+    "duration": "Duration 7-13 hours",
+    "do": [
+      "Walk through the Saklikent Gorge",
+      "Swim in the turquoise waters of the Mediterranean",
+      "Witness traditional village culture",
+      "Enjoy a full buffet lunch with a view of the gorge",
+      "Relish in the fun party atmosphere of the jeeps"
+    ],
+    "Expectation": "Leaving at 9:30AM from just in front of the tour office and we will go to kaputaş beach first you’ll be able to swim in the clear turquoise waters. We give you 1 hour free time for swimming.The fun then continues, as you wind your way towards Saklikent where you’ll start a tranquil hike to the flowing waters of the Gizlikent Waterfall. You will then continue with another walk up through the waters of the Saklikent Gorge, one of the longest canyons in Turkey. After body-surfing back to the entrance, you’ll enjoy a well-deserved buffet lunch near the gorge’s cool, refreshing waters.It will be time to walk into the secret waterfall. , You will later return to Kas at around 6:30PM, tired yet invigorated by your action-packed day.",
+    "description": [
+      "Pickup optional",
+      "Live Tour Guide",
+      "Reserve now & pay later"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Scuba Diving",
+    "color": "#3f79e3",
+    "price": 1500,
+    "image": [
+      "https://images.unsplash.com/photo-1517627043994-b991abb62fc8?q=80&w=1017&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "/assets/scuba.jpg",
+      "https://images.unsplash.com/photo-1544551763-46a013bb70d5?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "short-description": "Embark on an unforgettable diving adventure in Antalya! Suitable for beginners and experienced divers, includes equipment training, two dives, lunch, and transfers. Explore Kemer's crystal waters",
+    "cancel": "Free cancellation",
+    "place": "Kemer",
+    "duration": "Duration 8 hours",
+    "do": [
+      "Learn the basics of scuba diving",
+      "Discover a whole new underwater world",
+      "Two dives"
+    ],
+    "Expectation": "Would you like to give scuba diving a go? Then wriggle into a wet suit and get ready for a taste of a whole, new underwater world. This excellent activity offers two dives either side of lunch, which is included as is all equipment.First we'll whisk you off to meet a top-rated diving crew to help you get to grips with the basic skills. Then once you feel comfortable, you'll head out by boat to a secluded bay for your first, fun dive. Descend into the warm waters with an experienced instructor by your side. As you waft through the waters. Keep a lookout for grouper, octopus, damselfish and more.Then after lunch back on-board, you'll enjoy a second afternoon dive – giving you another chance to brush up your skills and see even more sea life.",
+    "description": ["Pickup optional", "Live Tour Guide", "lunch"]
+  },
+  {
+    "id": 10,
+    "name": "JetSki",
+    "color": "#d8e3fb",
+    "price": 2100,
+    "image": [
+      "https://images.unsplash.com/photo-1505867798796-639ec7e8cdf5?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "/assets/jetski.jpg",
+      "https://images.unsplash.com/photo-1617059063772-34532796cdb5?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "short-description": "Take in the amazing and jaw-dropping view of the Antalya from the sea on a 30-minute Jet Ski tour. Drive your Jet ski and enjoy maximum freedom by the sea and explore Antalya's' waterfront.",
+    "cancel": "Free cancellation",
+    "place": "Antalya",
+    "duration": "Duration 30 minutes",
+    "do": [
+      "Admire the coast of Side from the sea while exploring on a Jet Ski tour",
+      "Experience the adrenaline rush of riding through the coastal waters of Antalya",
+      "Marvel at the architecture of the Side Old Town, which can be seen from the water."
+    ],
+    "Expectation": "Admire beautiful views from the waters surrounding Side on this exciting 30-minute Jet Ski tour. Explore the waters around the city and marvel at the various famous buildings that can be spotted from the water like the Apollon Temple.Enjoy freedom on your Jet Ski on the sea, take beautiful photos, and create unforgettable memories. Return to the marina following the captain and take the opportunity to admire Side's oldtown and the iconic Apollon Temple.",
+    "description": ["Pickup optional", "Live Tour Guide", "Small groups"]
+  },
+  {
+    "id": 11,
+    "name": "Paragliding",
+    "color": "#f737da",
+    "price": 4000,
+    "image": [
+      "https://images.unsplash.com/photo-1551891590-eeac39130199?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "/assets/para.jpg",
+      "https://plus.unsplash.com/premium_photo-1666797179942-1955175e88a6?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "short-description": "Enjoy the thrill in the air It is an unique feeling to look at the world from above Experience the feeling of freedom",
+    "cancel": "Free cancellation",
+    "place": "Antalya",
+    "duration": "Duration 1.5 hour",
+    "do": [
+      "Drive up Mt Babadag",
+      "Paragliding over the Blue Lagoon",
+      "Bird's-eye views over the coastline"
+    ],
+    "Expectation": "Want an adrenalin rush like no other? Then get ready to paraglide over the Blue Lagoon at Oludeniz. It's a serious thrill that will stay with you long after the rest of your holiday memories have faded.First, feel the cool mountain breezes as you drive up Mt Babadag. This 1,700m peak looms over the lagoon and is the launch pad for your flight. At the top, you'll be given a full how-to session, zip into a flying suit and hook up with your parachute. Then it's time for you and your pilot to take the run up and launch into the air. Look down and all you'll see are your toes and the Blue Lagoon, white beaches and green slopes below. You'll feel like a bird, gliding peacefully on the warm currents.Sit back in the seat and soak it all up – your flight last roughly half an hour, so you can really savour the experience. And you're allowed to take photos during the descent too.",
+    "description": ["Pickup optional", "Live Tour Guide", "Private group"]
+  },
+  {
+    "id": 12,
+    "name": "Snorkling",
+    "color": "#d07c7e",
+    "price": 800,
+    "image": [
+      "https://plus.unsplash.com/premium_photo-1682091874987-687e0c1026b8?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "/assets/Snork.jpg",
+      "https://images.unsplash.com/photo-1617167152128-2bcd0c6b7793?q=80&w=1036&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "short-description": "Embark on a private or small-group guided snorkeling tour in Antalya. Go snorkeling in the crystal clear waters and marvel at the colorful fish and sea turtles.",
+    "cancel": "Free cancellation",
+    "place": "Antalya",
+    "duration": "Duration 2.5 -8 hours",
+    "do": [
+      "Explore Side's new Underwater Museum",
+      "Snorkel around 110 sculptures in the Mediterranean Sea",
+      "Enjoy lunch on the boat and the views of the water"
+    ],
+    "Expectation": "Explore Side’s Underwater Museum, a one-of-a-kind experience in Europe. Snorkel in the Mediterranean Sea and experience the 110 sculptures that represent parts of Anatolian history.After pickup from your hotel in an air-conditioned bus, you’ll drive a short distance to the harbor and walk to the boat. Once on board, you’ll have a safety briefing in each language before sailing out to the Sea. Get your equipment on and then dive and snrokel underwater with an expert diver and photo team to explore the Underwater Museum. With a depth of only 5-6 meters, this area is accessible for beginners as well as experts.",
+    "description": [
+      "Pickup optional",
+      "Live Tour Guide",
+      "Skip the ticket line"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Land of Legends",
+    "color": "#e140d0",
+    "price": 1500,
+    "image": [
+      "https://images.unsplash.com/photo-1625399861498-eab99e357df6?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "/assets/LandOf.png",
+      "https://images.unsplash.com/photo-1612484848891-b821dad5c590?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "short-description": "Experience uninterrupted adrenaline and high excitement with an entrance ticket to the Land of Legends Theme Park in Turkey, located in Belek.",
+    "cancel": "Free cancellation",
+    "place": "Antalya",
+    "duration": "Valid 1 day",
+    "do": [
+      "Dozens of attractions",
+      "Coasters, slides, lazy rivers and more",
+      "Fun for the whole family"
+    ],
+    "Expectation": "The Land of Legends amusement park has added a host of fun-filled water activities to its already amazing offering. Boasting a scenic setting that's infused with thrill and plenty of exciting entertainment, The Land of Legends promises a day of both adrenaline-pumping rides and relaxation.There are electrifying rides, speedy slides, a lazy river and more at this one-of-a-kind waterpark. And for the adventurous, there's the wave pool, slide complex and the chance to find your feet on a surfboard. There's even a 5D cinema and coasters like the Sky Walker, Flying Carpet and more. This is Turkey at its most splashtastic.Everyone is invited to splash into this world of watery fun. With white sandy beaches and swaying palm trees surrounding the park, you'll be transported to your very own tropical paradise. Whether you want whiteknuckle rides or relaxation, there's plenty of thrills and spills for the whole family.",
+    "description": [
+      "Pickup optional",
+      "Mulitlingual Hosts",
+      "Skip the ticket line"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Perge Tour",
+    "color": "#ad699f",
+    "price": 1100,
+    "image": [
+      "https://images.unsplash.com/photo-1659349785086-810ca137d2c0?q=80&w=1035&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "/assets/1Perge.jpg",
+      "https://images.unsplash.com/photo-1659349926950-f8202bab86b6?q=80&w=1035&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "short-description": "Go on a day tour that will take you to some of the most significant ancient Roman sites in the region. See the ancient city of Perge.",
+    "cancel": "Free cancellation",
+    "place": "Perge",
+    "duration": "Duration 7 hours",
+    "do": [
+      "Ancient port of Perga",
+      "Perga stadium",
+      "Aspendos theatre",
+      "Private tour for up to 6 guests"
+    ],
+    "Expectation": "Travel back in time to the days of togas and chariots with this private half-day tour to the ancient sites of Perga and Aspendos. Among the attractions you'll discover is perhaps the best-preserved Roman theatre of all.First on the history hitlist is the classical city of Perga. This once-bustling Roman port was founded around 1300 BC and the first stop for St Paul on his missionary journeys around the Mediterranean. Take a guided tour, stepping through the triumphal Roman gate to admire the ruined temples, marketplace and fountains. On the column-lined main street, you can even see the grooves in the flagstones created by chariot wheels. There's also a 12,000-seater stadium and the remnants of a Bronze Age acropolis.Next, we go to Aspendos to see one of the best-preserved theatres from antiquity. Built 2,000 years ago into a steep hillside and big enough for 15,000 spectators, its perfect acoustics mean that it's still used for operas and concerts today.",
+    "description": ["Pickup included", "Mulitlingual Hosts"]
+  },
+  {
+    "id": 15,
+    "name": "Side City Tour",
+    "color": "#7ebd58",
+    "price": 1300,
+    "image": [
+      "https://images.unsplash.com/photo-1646054434790-53dcd066a5f8?q=80&w=1035&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "/assets/side1.jpg",
+      "https://images.unsplash.com/photo-1701336268112-5c66d73c35b8?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "short-description": "Journey into the past as you discover the ancient citiy of Side on this guided tour from Antalya. Explore the ruins of Roman architecture and go for a dip in a waterfall.Hello",
+    "cancel": "Free cancellation",
+    "place": "Side",
+    "duration": "Duration 9 hours",
+    "do": [
+      " Guided tour of the archaeological site of the ancient city of Side",
+      "Take selfies by the romantic ruin of the seafront Temple of Apollo",
+      "Discover the Roman ruins and Byzantine buildings from our expert local guide",
+      "See the vast Roman theatre, which used to hold up to 20,000 spectators",
+      "Local expert guide with unrivalled knowledge of ancient Side and its history"
+    ],
+    "Expectation": "Ancient Side has hardly changed since its days as a getaway for legendary lovers Antony and Cleopatra. Uncover one of southern Turkey's best-kept secrets with this tour. You'll get to snap photos by the Temple of Apollo, discover the huge Roman theatre and explore modern Side, too. As Muzaffer, one of our guides, says, ‘You'll walk all over history. On the way to the Temple of Apollo, there are glass walkways over ancient Roman streets.' Side's location on a compact little headland is as romantic as it gets. Our expert local guide will give you the lowdown on the long history of this once-busy Roman port. You'll see the marketplace where slaves were traded, the Byzantine hospital and the Vespasian Gate. The ancient theatre, which is still used today, is a sight to behold – it seated up to 20,000 spectators. While the former bathhouse is now a museum with a small but impressive collection of artefacts dug up here.But one of the most-photographed spots is the Temple of Apollo. Legend says that this second-century seafront shrine was a gift from Antony to Cleopatra. And just beside it is the Temple of Athena – zoom in on the frieze of Medusa heads. Once you've explored the ruins, there'll be free time in modern Side to buy a sizzling kebab at one of the street stalls, or haggle for bargains in the backstreet bazaars. What's more, for your convenience, this is a small group tour to help you follow the guide better and avoid agglomerations.",
+    "description": ["Pickup included", "Skip the ticket line"]
+  },
+  {
+    "id": 16,
+    "name": "Culinary Tour",
+    "color": "#bdf1ad",
+    "price": 3000,
+    "image": [
+      "https://plus.unsplash.com/premium_photo-1683147709907-4348f2d7f56d?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "/assets/türk.jpg",
+      "https://images.unsplash.com/photo-1567994132067-402de7698daa?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "short-description": "Fill your belly to the brim with fantastic Turkish flavors on a guided  tour of the best food on every side of Antalya. Make 8-9 stops with a variety of delicious samples at each one.",
+    "cancel": "Free cancellation",
+    "place": "Antalya",
+    "duration": "Duration 6 hours",
+    "do": [
+      "Learn about Turkish food culture from a culinary guide",
+      "Explore the historical Oldtown neighborhood",
+      "Sample traditional snacks, desserts, and drinks",
+      "Visit local meyhanes and food markets"
+    ],
+    "Expectation": "Get to know the complex food culture of Antalya on this guided street food walking tour. Explore the Oldtown neighborhood and visit some of the hidden passages and streets.Stop at traditional meyhanes and food markets and sample a wide range of cuisine, including snacks, desserts, and drinks",
+    "description": ["Pickup included", "Live tour guide", "Small group"]
+  },
+  {
+    "id": 17,
+    "name": "Antalya City Tour",
+    "color": "#81d2d1",
+    "price": 650,
+    "image": [
+      "https://images.unsplash.com/photo-1578852952104-54f3dac8b260?q=80&w=1227&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      " /assets/antalya1.jpg",
+      "https://images.unsplash.com/photo-1627321924439-e73043c49064?q=80&w=1029&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "short-description": "Experience great views of the Mediterranean Sea and Antalya City with a scenic cable-car ride. You'll also visit two of the most popular waterfalls of city, the Düden and Karpuz Kaldıran waterfalls.    ",
+    "cancel": "Free cancellation",
+    "place": "Antalya",
+    "duration": "Duration 8 hours",
+    "do": [
+      "Visits to gold and textile centres",
+      "See the famous Karpuzkaldiran waterfall",
+      "Guided walking tour of Antalya old town."
+    ],
+    "Expectation": "Antalya is renowned for its shopping and for being a haggler's paradise – it's not just beautiful landscapes and historic cities. This full day tour combines these two elements, taking you to the best places to grab a bargain and pick up a souvenir, as well as the famous Karpuzkaldiran waterfall and Antalya old town.First up, get the lowdown on the best gold, and why it's such a good buy here. When the expert jewellers showcase their pieces, don't forget to haggle for the best deal. And if shopping's not on your agenda, just give them a polite no. The shopping gives way to Mother Nature next, with a trip to the Karpuzkaldiran waterfall. You'll be able to take some special snapshots of the water pouring over a cliff into the Mediterranean.Afterwards, there's a visit to a textile centre for some more retail therapy. Whether you're in the mood to shop or simply browse, it's a great way to practice your bargaining skills. A guided tour of Antalya's old town, Kaleici, rounds off the day. Winding uphill from the harbour, it's a gem of a place. Ringed by Roman walls, it's all cobbled lanes, Ottoman-style houses and pretty cafés",
+    "description": ["Pickup included", "Live tour guide"]
+  },
+  {
+    "id": 18,
+    "name": "Antalya Aquarium",
+    "color": "#20ff62",
+    "price": 2100,
+    "image": [
+      "https://images.unsplash.com/photo-1573350926865-cf0d512fd504?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "/assets/Aquarium.jpg",
+      "https://images.unsplash.com/photo-1572438131134-ec29490abfba?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "short-description": "Spend the day at one of the largest aquariums in the world with a full-day ticket to the Antalya Aquarium, and be inspired and entertained by the world’s marine life.",
+    "cancel": "Free cancellation",
+    "place": "Antalya",
+    "duration": "Duration 4-8 hours",
+    "do": [
+      "Discover underwater life at Antalya Aquarium",
+      "See exotic fish and shark",
+      "The world's longest aquarium tunnel"
+    ],
+    "Expectation": "Antalya Aquarium is an award-winning attraction and it's easy to see why. It boasts an amazing array of species as well as the longest aquarium tunnel on the planet. What's more, there's a Snow World and the Fear Trophy experience – a themed exhibition housing some of the world's most dangerous creatures.Designed by a renowned Italian sculptor, the aquarium is a work of art. Coral reefs inspired him and the main tank even features a life-size aeroplane, a shipwreck and a submarine. Each installation is brimming with dozens of species of tropical fish and sharks from all over the world. There's also a special tank for jellyfish.For a small extra cost – and if you're brave enough – you can take on the Fear Trophy, a creepy exhibit that showcases the world's deadliest snakes, spiders and more. Or at Snow World, discover a winter wonderland with igloos, Santa's grotto and cafés. You can even have a snowball fight and make snowmen.",
+    "description": ["Skip the ticket line ", "Pickup optional"]
+  },
+  {
+    "id": 19,
+    "name": "Kekova tour",
+    "color": "#a51fc5",
+    "price": 2500,
+    "image": [
+      "https://plus.unsplash.com/premium_photo-1661964105957-7dd951387bf7?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "/assets/kekova.jpg",
+      "https://images.unsplash.com/photo-1662287327286-ad3572013da9?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "short-description": "Discover Lycia's ancient wonders from Demre to Kekova: explore ruins, visit St. Nicholas Church, and cruise the stunning Kekova waters.",
+    "cancel": "Free cancellation",
+    "place": "Demre",
+    "duration": "Duration 6 hours",
+    "do": [
+      "Boat trip to Kekova Island",
+      "See the sunken city of Simena",
+      "Visit the Church of St Nicholas of Myra",
+      "Explore the ruins of ancient Myra"
+    ],
+    "Expectation": "Christmas comes early on this private tour – it's the best gift you can give your holiday. You'll visit the stone houses of Beymelek, cruise to Kekova Island, see the ‘lost city' of Simena and visit the Church of St Nicholas and ancient ruins of Myra.The fun kicks off with an organic brunch at Beymelek stone houses. You'll then visit a nearby greenhouse to learn about local horticulture. Next, hop on to a boat to Kekova Island. You'll discover the sunken city of Simena and, in summer, enjoy a swim stop.Then, after lunch, visit the Church of St Nicholas – alias Santa – and the ruins of ancient Myra. The church, which dates from the year 520, boasts recently restored 12th century frescoes while the archaeological site is pretty impressive. Star turns include the Roman theatre and the Lycian rock-cut tombs.",
+    "description": ["Skip the ticket line ", "Live tour guide "]
+  },
+  {
+    "id": 20,
+    "name": "Fire of Anatolia Show",
+    "color": "#a51fc5",
+    "price": 1800,
+    "image": [
+      "https://images.unsplash.com/photo-1520732821391-824fdfde16cb?q=80&w=1970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "/assets/FireOf.avif",
+      "https://images.unsplash.com/photo-1571689298871-7ab64cebbc5f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "short-description": "Get to the heart of Turkish culture by watching the legendary Fire of Anatolia dance show at the Ancient Aspendos Theater. Marvel as 120 dancers perform one of the fastest dances in the world.",
+    "cancel": "Free cancellation",
+    "place": "Antalya",
+    "duration": "Duration 3-8 hours",
+    "do": [
+      "Traditional Turkish music and dancing",
+      "Spectacular show in a traditional ancient theatre",
+      "Evening out"
+    ],
+    "Expectation": "The ancient region of Anatolia makes up most of central Turkey and its folklore has shaped much of the country's wider culture and customs. And this world-famous show tells you the story of its past through the medium of dance.Featuring the incredible ‘Fire of Anatolia' dance troupe, it's Turkey's answer to Riverdance. Cue a cast of 120 dancers stepping, stomping and swirling to traditional folk music from the Black Sea to the Balkans. And ballet and acrobatic modern dance acts are all backed by swirling Turkish music and drumming. Add dazzling lighting and costumes and you've got yourself a show to remember.Look out especially for the fastest dances. ‘Fire of Anatolia' holds the world record for performing the most dance steps in one minute – 241 to be precise. The trip includes transfers to and from the venue, the ancient Aspendos theatre, as well as your entrance tickets.",
+    "description": ["Skip the ticket line ", "Pickup optional"]
+  }
+]
